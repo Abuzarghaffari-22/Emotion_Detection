@@ -9,17 +9,19 @@ and video file inference — plus TorchScript/ONNX export for deployment.
 
 ## Visual Demo
 
-The model detects faces and classifies each detected facial expression into one of **7 emotion classes**: `angry`, `disgust`, `fear`, `happy`, `neutral`, `sad`, and `surprise`.
+The model detects faces and classifies each detected facial expression into one of **7 emotion classes**: `angry`, `disgust`, `fear`, `happy`, `neutral`,  and `surprise`.
 
 |                                                            Original Collage                                                            |                                                            Model Predictions                                                            |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/user-attachments/assets/28f851af-3e72-438e-b3d1-19fdf1cd03e7" width="460" alt="Original emotion collage"> | <img src="https://github.com/user-attachments/assets/b96d897e-48fb-44c6-b260-33bdc99d8f19" width="460" alt="Model emotion predictions"> |
+| <img src="assets/<img width="1536" height="1024" alt="test" src="https://github.com/user-attachments/assets/4e1f2344-ec12-4dbf-9b4f-407c99f9346b" />
+" width="460" alt="Original emotion collage"> |  |
 
 > **Before → After:** The left image shows the original input, while the right image shows the model's face detections and predicted emotions.
 
 ### Additional Test Result
 
-<img src="https://github.com/user-attachments/assets/28a89516-2037-4fc0-9f16-f6cc64045fb1" width="700" alt="Additional emotion recognition test result">
+<img src="assets/<img width="1498" height="1050" alt="test_emotions_annotated" src="https://github.com/user-attachments/assets/48b84e0f-6d57-499a-b309-b364c2471180" />
+" width="700" alt="Additional emotion recognition test result">
 
 
 ## Table of Contents
