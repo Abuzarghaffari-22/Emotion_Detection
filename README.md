@@ -8,20 +8,21 @@ and video file inference — plus TorchScript/ONNX export for deployment.
 ---
 
 ## Visual Demo
+### Emotion Classes
 
-The model detects faces and classifies each detected facial expression into one of **7 emotion classes**: `angry`, `disgust`, `fear`, `happy`, `neutral`,  and `surprise`.
+The model detects **7 emotion classes**:
 
-|                                                            Original Collage                                                            |                                                            Model Predictions                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="assets/<img width="1536" height="1024" alt="test" src="https://github.com/user-attachments/assets/4e1f2344-ec12-4dbf-9b4f-407c99f9346b" />
-" width="460" alt="Original emotion collage"> |  |
+`angry` · `disgust` · `fear` · `happy` · `neutral` ·  `surprise`
 
-> **Before → After:** The left image shows the original input, while the right image shows the model's face detections and predicted emotions.
+## Visual Demo
 
-### Additional Test Result
+|                                              Original Image                                             |                                            Model Predictions                                            |
+| :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/8bbcc99d-3ee6-435e-a8f8-f71563294212" width="460"> | <img src="https://github.com/user-attachments/assets/cf72216b-073d-4137-8125-6a414205a75e" width="460"> |
 
-<img src="assets/<img width="1498" height="1050" alt="test_emotions_annotated" src="https://github.com/user-attachments/assets/48b84e0f-6d57-499a-b309-b364c2471180" />
-" width="700" alt="Additional emotion recognition test result">
+**Before → After:** The model detects faces and predicts the corresponding emotion for each detected face.
+
+---
 
 
 ## Table of Contents
