@@ -7,9 +7,10 @@ and video file inference — plus TorchScript/ONNX export for deployment.
 7 emotion classes: `angry`, `disgust`, `fear`, `happy`, `neutral`, `sad`, `surprise`.
 ---
 ## Visual Demo
-| Original Collage (Before) | Model Detections (After) |
+| Original Collage (Before) | 
 | :---: | :---: |
 | <img src="assets/<img width="1498" height="1050" alt="test_emotions" src="https://github.com/user-attachments/assets/8152bef6-6f28-47d0-8c3c-706f32035b7c" />" width="460"> |
+| Model Detection (After) |
 | <img src="assets/<img width="1498" height="1050" alt="test_emotions_annotated" src="https://github.com/user-attachments/assets/6f716f90-0ab5-4b99-9a73-efca497c6e88" />" width="460"> |
 ---
 
