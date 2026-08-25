@@ -10,8 +10,10 @@ and video file inference — plus TorchScript/ONNX export for deployment.
 
 | Original Collage (Before) | Model Predictions (After) |
 | :---: | :---: |
-| <img src="assets/<img width="1498" height="1050" alt="test_emotions" src="https://github.com/user-attachments/assets/73d2eb84-d84a-4bfc-bfdc-4dc799c38486" />
-" width="460" alt="Before Inferen"> | <img src="assets/6f716f90-0ab5-4b99-9a73-efca497c6e88" width="460" alt="After Inference"> |
+| <img src="assets/<img width="1498" height="1050" alt="test_emotions" src="assets/<img width="1498" height="1050" alt="test_emotions" src="https://github.com/user-attachments/assets/28f851af-3e72-438e-b3d1-19fdf1cd03e7" />
+" />
+" width="460" alt="Before Inferen"> | <img src="assets/<img width="1498" height="1050" alt="test_emotions_annotated" src="https://github.com/user-attachments/assets/b96d897e-48fb-44c6-b260-33bdc99d8f19" />
+" width="460" alt="After Inference"> |
 
 ---
 
